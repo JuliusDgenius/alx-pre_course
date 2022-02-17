@@ -1,3 +1,3 @@
-This README file is not empty.
-It is sitting in the subdirectory 0x01-git.
-The subdirectory lives in the root directory alx-pre_course.
+This is my first repository as an alx student.
+It explains what the repo is about.
+It's not an empty file.
