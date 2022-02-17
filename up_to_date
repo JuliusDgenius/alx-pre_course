@@ -1,0 +1,2 @@
+To update the local copy with updates from Github.com, you use:
+"git pull origin main".
