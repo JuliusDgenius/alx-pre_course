@@ -1,0 +1,15 @@
+//Define a function sum_of_squares that take two numbers as parameters.
+
+//Declare two variables each of which holds the value of the square of num1 and num2.
+
+ //Declare another variable, sumOfSquares to hold the sum of the squares, that is, square of num1 + square of num2.
+
+ //return sumOfSquares;
+ 
+//The function in JavaScript
+ function sum_of_squares(num1,num2){
+     let squareOne = num1*num1;
+     let squareTwo = num2*num2;
+     const sumOfSquares = squareOne + squareTwo;
+     return sumOfSquares;
+ }
